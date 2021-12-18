@@ -5,4 +5,4 @@ Hi 👋
 My name is Greg!
 
 ## Portfolio
-bygreg.net
+[bygreg.net](bygreg.net)
