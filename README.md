@@ -5,4 +5,4 @@ Hi 👋
 My name is Greg!
 
 ## General
-Age 28
+Age: 28
